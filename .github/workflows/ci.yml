@@ -1,6 +1,6 @@
-##Alteração 1
+##Alteração 2
 
-name: Django CI
+name: CI 2
 
 on:
   push:
